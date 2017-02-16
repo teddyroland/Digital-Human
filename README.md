@@ -1,4 +1,4 @@
-# Digital/Human
+# Digital-Human
 
 We can learn a great deal about the meanings of words by their usage in context. This is, of course, the intuition behind recent techniques like word embedding, but there are shorter routes from A to B if we wish to interpret our findings. Mapping keywords to their contexts (within an adjacency window) and performing Principle Component Analysis over the context space can help us to locate similar keywords nearby one another.
 
